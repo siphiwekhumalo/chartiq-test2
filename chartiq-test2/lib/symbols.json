@@ -1,0 +1,1219 @@
+[
+  {
+    "Security": "GBPUSD",
+    "Exch": "FX",
+    "Description": "United Kingdom Pound - United States Dollar",
+    "SecurityType": "Forex"
+  },
+  {
+    "Security": "EURUSD",
+    "Exch": "FX",
+    "Description": "Euro - United States Dollar",
+    "SecurityType": "Forex"
+  },
+{
+  "Security": "USDAED",
+  "Exch": "FX",
+  "Description": "United States Dollar - UAE Dirham",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDAFN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Afganistan Afghani",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDALL",
+  "Exch": "FX",
+  "Description": "United States Dollar - Albania Lek",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDAMD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Armenia Drams",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDANG",
+  "Exch": "FX",
+  "Description": "United States Dollar - Netherlands Antilles Guilder",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDAOA",
+  "Exch": "FX",
+  "Description": "United States Dollar - Angola Kwanza",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDARS",
+  "Exch": "FX",
+  "Description": "United States Dollar - Argentina Peso",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDAUD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Australian Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDAWG",
+  "Exch": "FX",
+  "Description": "United States Dollar - Aruba Guilders",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDAZN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Azerbaijani New Manat",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBAM",
+  "Exch": "FX",
+  "Description": "United States Dollar - Bosnia Hzg Con Marka",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBBD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Barbados Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBDT",
+  "Exch": "FX",
+  "Description": "United States Dollar - Bangladesh Taka",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBGN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Bulgaria Lev",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBHD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Baharain Dinar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBIF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Burundi Franc",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBMD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Bermuda Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBND",
+  "Exch": "FX",
+  "Description": "United States Dollar - Brunei Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBOB",
+  "Exch": "FX",
+  "Description": "United States Dollar - Bolivia Bolvianos",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBRL",
+  "Exch": "FX",
+  "Description": "United States Dollar - Brazil Real",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBSD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Bahamas Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBTN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Bhutan Ngultrum",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBWP",
+  "Exch": "FX",
+  "Description": "United States Dollar - Botswana Pula",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBYN",
+  "Exch": "FX",
+  "Description": "United States Dollar - New Belarus Ruble",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDBZD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Belize Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCAD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Canadian Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCDF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Congolese Franc",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCHF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Switzerland Franc",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCLF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Chile Unit Of Account",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCLP",
+  "Exch": "FX",
+  "Description": "United States Dollar - Chile Peso",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCLY",
+  "Exch": "FX",
+  "Description": "United States Dollar - Unknown",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCNH",
+  "Exch": "FX",
+  "Description": "United States Dollar - China Yuan Offshore",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCNY",
+  "Exch": "FX",
+  "Description": "United States Dollar - China Yuan",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCOP",
+  "Exch": "FX",
+  "Description": "United States Dollar - Colombia Peso",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCRC",
+  "Exch": "FX",
+  "Description": "United States Dollar - Costa Rica Colon",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCUP",
+  "Exch": "FX",
+  "Description": "UnitedStatesDollar-CubaPeso",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCVE",
+  "Exch": "FX",
+  "Description": "United States Dollar - Cape Verde Escudo",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDCZK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Czech Republic Koruna",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDDJF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Djibouti Franc",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDDKK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Denmark Krone",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDDOP",
+  "Exch": "FX",
+  "Description": "United States Dollar - Domican Republic Peso",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDDZD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Algeria Dinar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDEGP",
+  "Exch": "FX",
+  "Description": "United States Dollar - Egypt Pound",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDETB",
+  "Exch": "FX",
+  "Description": "United States Dollar - Ethiopian Birr",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDEUR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Euro",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDFJD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Fiji Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDGBP",
+  "Exch": "FX",
+  "Description": "United States Dollar - United Kingdom Pound",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDGEL",
+  "Exch": "FX",
+  "Description": "United States Dollar - Georgia Lari",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDGHS",
+  "Exch": "FX",
+  "Description": "United States Dollar - Ghana Cedi",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDGMD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Gambia Dalasi",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDGNF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Guinea Franc",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDGTQ",
+  "Exch": "FX",
+  "Description": "United States Dollar - Guatemala Quetzal",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDGYD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Guyana Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDHKD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Hong Kong Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDHNL",
+  "Exch": "FX",
+  "Description": "United States Dollar - Honduras Lempira",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDHRK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Croatia Kuna",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDHTG",
+  "Exch": "FX",
+  "Description": "United States Dollar - Haiti Gourde",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDHUF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Hungary Forint",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDIDR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Indonesia Rupiah",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDILS",
+  "Exch": "FX",
+  "Description": "United States Dollar - Israel New Shekel",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDINR",
+  "Exch": "FX",
+  "Description": "United States Dollar - India Rupee",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDIQD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Iraq Dinar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDIRR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Iran Riyal",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDISK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Iceland Krona",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDJMD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Jamaica Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDJOD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Jordan Dinar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDJPY",
+  "Exch": "FX",
+  "Description": "United States Dollar - Japan Yen",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDKES",
+  "Exch": "FX",
+  "Description": "United States Dollar - Kenya Shilling",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDKGS",
+  "Exch": "FX",
+  "Description": "United States Dollar - Kyrgyz Som",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDKHR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Cambodia Riel",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDKMF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Comoros Franc",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDKRW",
+  "Exch": "FX",
+  "Description": "United States Dollar - Korea Won",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDKWD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Kuwait Dinar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDKYD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Cayman Islands Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDKZT",
+  "Exch": "FX",
+  "Description": "United States Dollar - Kazakhstan Tenge",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDLAK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Laos Kips",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDLBP",
+  "Exch": "FX",
+  "Description": "United States Dollar - Lebanese Pound",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDLKR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Sri Lanka Rupee",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDLRD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Liberia Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDLSL",
+  "Exch": "FX",
+  "Description": "United States Dollar - Lesotho Loti",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDLYD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Libya Dina",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMAD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Morocco Dihram",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMDL",
+  "Exch": "FX",
+  "Description": "United States Dollar - Moldavan Leu",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMGA",
+  "Exch": "FX",
+  "Description": "United States Dollar - Madagascar Ariary",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMKD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Macedonia Denar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMMK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Mynamar Kyat",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMOP",
+  "Exch": "FX",
+  "Description": "United States Dollar - Macao Pataca",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMRU",
+  "Exch": "FX",
+  "Description": "United States Dollar - Mauritania Ouguiya",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMUR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Mauritius Rupee",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMVR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Maldives Rufiyan",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMWK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Malawi Kwacha",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMXN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Mexico New Peso",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMXV",
+  "Exch": "FX",
+  "Description": "United States Dollar  vs Mexican Unidad de Inversion Spot",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDMYR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Malaysia Ringgit",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDNAD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Namibia Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDNGN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Nigeria Naira",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDNIO",
+  "Exch": "FX",
+  "Description": "United States Dollar - Nicaragua Cordaba",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDNOK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Norway Krone",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDNPR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Nepal Rupee",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDNZD",
+  "Exch": "FX",
+  "Description": "United States Dollar - New Zealand Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDOMR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Oman Rial",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDPAB",
+  "Exch": "FX",
+  "Description": "United States Dollar - Panama Balboa",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDPEN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Peru New Sol",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDPGK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Papua New Guinea Kina",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDPHP",
+  "Exch": "FX",
+  "Description": "United States Dollar - Philippines Peso",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDPKR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Pakistan Rupee",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDPLN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Poland Zloty",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDPYG",
+  "Exch": "FX",
+  "Description": "United States Dollar - Paraguay Guarani",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDQAR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Qatar Rial",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDRON",
+  "Exch": "FX",
+  "Description": "United States Dollar - Romania Leu New",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDRSD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Serbia Dinar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDRUB",
+  "Exch": "FX",
+  "Description": "United States Dollar - Russia Rouble",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDRWF",
+  "Exch": "FX",
+  "Description": "United States Dollar - Rwanda Franc",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSAR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Saudi Arabia Riyal",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSBD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Solomon Island Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSCR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Seychelles Rupee",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSDG",
+  "Exch": "FX",
+  "Description": "United States Dollar - Sudanese Pound",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSEK",
+  "Exch": "FX",
+  "Description": "United States Dollar - Sweden Krona",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSGD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Singapore Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSLL",
+  "Exch": "FX",
+  "Description": "United States Dollar - Sierra Lenone Leone",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSOS",
+  "Exch": "FX",
+  "Description": "United States Dollar - Somalia Shilling",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSRD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Surinam Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSTN",
+  "Exch": "FX",
+  "Description": "United States Dollar - Sao Tome & Principe Dobra",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSVC",
+  "Exch": "FX",
+  "Description": "United States Dollar - El Salvador Colones",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDSZL",
+  "Exch": "FX",
+  "Description": "United States Dollar - Swaziland Lilangeni",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTHB",
+  "Exch": "FX",
+  "Description": "United States Dollar - Thailand Baht",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTJS",
+  "Exch": "FX",
+  "Description": "United States Dollar - Tasikstan Somoni",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTMM",
+  "Exch": "FX",
+  "Description": "United States Dollar - Turkmenistan Manat",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTMT",
+  "Exch": "FX",
+  "Description": "United States Dollar - Turkmenistan Manat",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTND",
+  "Exch": "FX",
+  "Description": "United States Dollar - Tunisia Dinar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTOP",
+  "Exch": "FX",
+  "Description": "Tonga Paanaga - United States Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTRY",
+  "Exch": "FX",
+  "Description": "United States Dollar - Turkey New Lira",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTTD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Trinidad&Tobago Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTWD",
+  "Exch": "FX",
+  "Description": "United States Dollar - Taiwan New Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDTZS",
+  "Exch": "FX",
+  "Description": "United States Dollar - Tanzania Shilling",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDUAH",
+  "Exch": "FX",
+  "Description": "United States Dollar - Ukraine Hryvnia",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDUGX",
+  "Exch": "FX",
+  "Description": "United States Dollar - Uganda Shilling",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDUSD",
+  "Exch": "FX",
+  "Description": "United States Dollar  vs United States Dollar Spot",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDUYU",
+  "Exch": "FX",
+  "Description": "United States Dollar - Uruguay Peso",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDUZS",
+  "Exch": "FX",
+  "Description": "United States Dollar - Usbekistan Sum",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDVES",
+  "Exch": "FX",
+  "Description": "United States Dollar - Bolivar Soberano",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDVND",
+  "Exch": "FX",
+  "Description": "United States Dollar - Vietnam Dong",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDXAF",
+  "Exch": "FX",
+  "Description": "United States Dollar - CFA Franc (XAF)",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDXCD",
+  "Exch": "FX",
+  "Description": "United States Dollar - East Caribbean Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDXDR",
+  "Exch": "FX",
+  "Description": "United States Dollar - Special Drawing Rights",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDXOF",
+  "Exch": "FX",
+  "Description": "United States Dollar - CFA Franc (XOF)",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDXPF",
+  "Exch": "FX",
+  "Description": "United States Dollar - French Pacific Island Franc",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDYER",
+  "Exch": "FX",
+  "Description": "United States Dollar - Yemen Rial",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDZAR",
+  "Exch": "FX",
+  "Description": "United States Dollar - South Africa Rand",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "USDZMW",
+  "Exch": "FX",
+  "Description": "United States Dollar - Zambia Kwacha",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "UYUEUR",
+  "Exch": "FX",
+  "Description": "Uruguay Peso - Euro",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "UYUGBP",
+  "Exch": "FX",
+  "Description": "Uruguay Peso - United Kingdom Pound",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "UYUUSD",
+  "Exch": "FX",
+  "Description": "Uruguay Peso - United States Dollar",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "UYUXDR",
+  "Exch": "FX",
+  "Description": "Uruguayo Peso  vs Special Drawing Rights Spot",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "UZSEUR",
+  "Exch": "FX",
+  "Description": "Usbekistan Sum - Euro",
+  "SecurityType": "Forex"
+},
+{
+  "Security": "UZSUSD",
+  "Exch": "FX",
+  "Description": "Usbekistan Sum - United States Dollar",
+  "SecurityType": "Forex"
+},
+
+  {
+    "Security": "WBSQ23",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "WBSSPOT",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil - Spot",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "WBSACTIVE",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil - Active",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRNZ24",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "WBSU23",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRN-ZSPOT",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil - Spot",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRN-ZACTIVE",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil - Active",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "GASQ23",
+    "Exch": "IFE",
+    "Description": "Natural Gas",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "GASZ23",
+    "Exch": "IFE",
+    "Description": "Natural Gas",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRN.ZSPOT",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil - Spot",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRNM24",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "GASU23",
+    "Exch": "IFE",
+    "Description": "Natural Gas - Low Sulphur Gasoil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRNF24",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHUQ23",
+    "Exch": "IFE",
+    "Description": "Minerals - Oil ",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHUN23",
+    "Exch": "IFE",
+    "Description": "Minerals - Oil ",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "WBSV23",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRNH24",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "WBSZ23",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHON23",
+    "Exch": "IFE",
+    "Description": "Minerals - Heating Oil ",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHOQ23",
+    "Exch": "IFE",
+    "Description": "Minerals - Heating Oil ",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHUACTIVE",
+    "Exch": "IFE",
+    "Description": "Minerals - Oil ",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "GASV23",
+    "Exch": "IFE",
+    "Description": "Natural Gas - Low Sulphur Gasoil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "RCACTIVE",
+    "Exch": "IFE",
+    "Description": "WTI Crude Futures",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "CACTIVE",
+    "Exch": "IFE",
+    "Description": "Agriculture - Corn Active",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "CN23",
+    "Exch": "IFE",
+    "Description": "Agriculture - Corn",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHUU23",
+    "Exch": "IFE",
+    "Description": "Minerals - Oil ",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "RCN23",
+    "Exch": "IFE",
+    "Description": "WTI Crude Futures",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "DBIN23",
+    "Exch": "IFE",
+    "Description": "Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRN-ZQ23",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "BRNG24",
+    "Exch": "IFE",
+    "Description": "Brent Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "DBIM23",
+    "Exch": "IFE",
+    "Description": "Crude Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHOACTIVE",
+    "Exch": "IFE",
+    "Description": "Minerals - Heating Oil Active",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHUSPOT",
+    "Exch": "IFE",
+    "Description": "Minerals - Oil ",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "CSPOT",
+    "Exch": "IFE",
+    "Description": "Agriculture - Corn Spot",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "UHOU23",
+    "Exch": "IFE",
+    "Description": "Minerals - Heating Oil ",
+    "SecurityType": "Futures" 
+  },
+  {
+    "Security": "GAS-ZSPOT",
+    "Exch": "IFE",
+    "Description": "Natural Gas - Low Sulphur Gasoil Spot" ,
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "GWMSPOT",
+    "Exch": "IFE",
+    "Description": "WTI Crude",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "WACTIVE",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil - Active",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "GASX23",
+    "Exch": "IFE",
+    "Description": "Natural Gas - Low Sulphur Gasoil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "GAS-ZACTIVE",
+    "Exch": "IFE",
+    "Description": "Natural Gas - Low Sulphur Gasoil Active",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "WQ23",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "CU23",
+    "Exch": "IFE",
+    "Description": "Agriculture - Corn",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "WSPOT",
+    "Exch": "IFE",
+    "Description": "WTI Crude - Oil Spot",
+    "SecurityType": "Futures"
+  },
+  {
+    "Security": "GWMACTIVE",
+    "Exch": "IFE",
+    "Description": "Natural Gas",
+    "SecurityType": "Futures"
+  }
+  
+
+
+
+]

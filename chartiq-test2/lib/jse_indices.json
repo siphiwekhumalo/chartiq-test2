@@ -1,0 +1,1662 @@
+[
+  {
+    "Exchange": "JSE",
+    "SecurityCode": "ABCT02",
+    "SecurityName": "AB LSI CPI TOP40 4AP"
+  },
+  {
+    "Exchange": "JSE",
+    "SecurityCode": "ABSW01",
+    "SecurityName": "ABLSIRESETSWIX408OCT"
+  },
+  {
+    "Exchange": "JSE",
+    "SecurityCode": "ABSW14",
+    "SecurityName": "AB LSI SW12 JANUARY2"
+  },
+  {
+    "Exchange": "JSE",
+    "SecurityCode": "ABTP05",
+    "SecurityName": "ABLSIRESETTOP40 24JU"
+  },
+  {
+    "Exchange": "JSE",
+    "SecurityCode": "AMTF04",
+    "SecurityName": "AMLSI TF04 19MARCH20"
+  },
+  {
+    "Exchange": "JSE",
+    "SecurityCode": "J058",
+    "SecurityName": "ALTERNATIVE ENEGRY"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J100",
+    "SecurityName": "JSE SOCIALLY RESPONSIBLE INVESTMENT"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J10E",
+    "SecurityName": "J10E"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J10P",
+    "SecurityName": "J10P"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J10T",
+    "SecurityName": "J10T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J110",
+    "SecurityName": "RI Top 30"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J110T",
+    "SecurityName": "RI Top 30 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J113",
+    "SecurityName": "J113"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J140",
+    "SecurityName": "SHARIAH TOP40"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J140T",
+    "SecurityName": "SHARIAH TOP40 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J141",
+    "SecurityName": "Capped Shariah Top 40"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J141T",
+    "SecurityName": "Capped Shariah Top 40 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J143",
+    "SecurityName": "Shariah Alsi"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J143T",
+    "SecurityName": "Shariah Alsi Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J150T",
+    "SecurityName": "Gold Mining Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J151T",
+    "SecurityName": "Coal Mining Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J153T",
+    "SecurityName": "Platinum Mine Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J154T",
+    "SecurityName": "Gen Mining Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J15E",
+    "SecurityName": "J15E"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J15P",
+    "SecurityName": "J15P"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J15T",
+    "SecurityName": "J15T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J200",
+    "SecurityName": "Top 40"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J200T",
+    "SecurityName": "Top 40 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J201",
+    "SecurityName": "Mid Cap"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J201T",
+    "SecurityName": "Mid Cap Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J202",
+    "SecurityName": "Small Cap"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J202T",
+    "SecurityName": "Small Cap Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J203",
+    "SecurityName": "All Share"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J203T",
+    "SecurityName": "All Share Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J204",
+    "SecurityName": "Fledgling"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J204T",
+    "SecurityName": "Fledgling Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J205",
+    "SecurityName": "Lrg Cap"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J205T",
+    "SecurityName": "Lrg Cap Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J206",
+    "SecurityName": "Lrg Mid"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J206T",
+    "SecurityName": "Lrg Mid Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J20E",
+    "SecurityName": "J20E"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J20P",
+    "SecurityName": "J20P"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J20T",
+    "SecurityName": "J20T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J20U",
+    "SecurityName": "TOP 40 (USD)"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J20UT",
+    "SecurityName": "TOP 40 (USD) Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J20X",
+    "SecurityName": "Top 40 Expiry"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J20XT",
+    "SecurityName": "Top 40 Expiry Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J210",
+    "SecurityName": "Resource 10"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J210T",
+    "SecurityName": "Resource 10 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J211",
+    "SecurityName": "Industrial 25"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J211T",
+    "SecurityName": "Industrial 25 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J212",
+    "SecurityName": "Financial 15"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J212T",
+    "SecurityName": "Financial 15 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J213",
+    "SecurityName": "Findi 30"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J213T",
+    "SecurityName": "Findi 30 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J232",
+    "SecurityName": "Alt X"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J232T",
+    "SecurityName": "Alt X Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J233",
+    "SecurityName": "ALTX 15"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J233T",
+    "SecurityName": "ALTX 15 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J240",
+    "SecurityName": "INTERNATIONAL BENCHMARK INDEX"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J241",
+    "SecurityName": "INTL BENCHMARK - RESOURCES"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J242",
+    "SecurityName": "INTL BENCHMARK - FINANCIALS"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J243",
+    "SecurityName": "INTL BENCHMARK - INDUSTRIALS"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J250",
+    "SecurityName": "SA Fini and Indi"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J250T",
+    "SecurityName": "SA Fini and Indi Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J251",
+    "SecurityName": "PREFERENCE SHARE"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J251T",
+    "SecurityName": "PREFERENCE SHARE TOTAL RETURN"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J253",
+    "SecurityName": "SA Property"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J253T",
+    "SecurityName": "SA Property Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J254",
+    "SecurityName": "Capped Proper Index"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J254T",
+    "SecurityName": "Capped Proper Index Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J257",
+    "SecurityName": "SA Industrials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J257T",
+    "SecurityName": "SA Industrials Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J258",
+    "SecurityName": "Resources"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J258T",
+    "SecurityName": "Resources Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J259",
+    "SecurityName": "Div+"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J259T",
+    "SecurityName": "Div+ Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J260",
+    "SecurityName": "RAFI 40"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J260T",
+    "SecurityName": "RAFI 40 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J263",
+    "SecurityName": "Rafi Alsi"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J263T",
+    "SecurityName": "Rafi Alsi Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J283",
+    "SecurityName": "Rafi All Share Capped"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J283T",
+    "SecurityName": "Rafi All Share Capped Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J2DV",
+    "SecurityName": "J2DV"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J2EQ",
+    "SecurityName": "Top 40 EQWI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J2EQT",
+    "SecurityName": "Top 40 EQWI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J300",
+    "SecurityName": "Capped Top 40"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J300T",
+    "SecurityName": "Capped Top 40 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J303",
+    "SecurityName": "Capped Alsi"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J303T",
+    "SecurityName": "Capped Alsi Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J310",
+    "SecurityName": "Capped RESI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J310T",
+    "SecurityName": "Capped RESI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J311",
+    "SecurityName": "Capped INDI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J311T",
+    "SecurityName": "Capped INDI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J330",
+    "SecurityName": "VALUE INDEX"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J331",
+    "SecurityName": "GROWTH INDEX"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J3EQ",
+    "SecurityName": "RESI 10 EQWI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J3EQT",
+    "SecurityName": "RESI 10 EQWI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J400",
+    "SecurityName": "Share Top 40"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J400T",
+    "SecurityName": "Share Top 40 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J403",
+    "SecurityName": "Share Alsi"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J403T",
+    "SecurityName": "Share Alsi Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J40X",
+    "SecurityName": "Swix 40 Expiry"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J40XT",
+    "SecurityName": "Swix 40 Expiry Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J430",
+    "SecurityName": "Capped SWIX 40"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J430T",
+    "SecurityName": "Capped SWIX 40 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J433",
+    "SecurityName": "Capped SWIX Alsi"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J433T",
+    "SecurityName": "Capped SWIX Alsi Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J4EQ",
+    "SecurityName": "FINI 15 EQWI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J4EQT",
+    "SecurityName": "FINI 15 EQWI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J580",
+    "SecurityName": "FTSE/JSE SA Financials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J580T",
+    "SecurityName": "FTSE/JSE SA Financials Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J5EQ",
+    "SecurityName": "INDI 25 EQWI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J5EQT",
+    "SecurityName": "INDI 25 EQWI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J653T",
+    "SecurityName": "Fixed Telecom Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J700",
+    "SecurityName": "J700"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J703",
+    "SecurityName": "J703"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J800",
+    "SecurityName": "Trade Prop"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J800T",
+    "SecurityName": "Trade Prop Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J803",
+    "SecurityName": "All Prop"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J803T",
+    "SecurityName": "All Prop Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J805",
+    "SecurityName": "SA REIT"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J805T",
+    "SecurityName": "SA REIT Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "J873",
+    "SecurityName": "FTSE/JSE SA Real Estate Index"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JA00",
+    "SecurityName": "All Africa 40 Index"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JA00T",
+    "SecurityName": "All Africa 40 Index Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JA0R",
+    "SecurityName": "All Africa 40 Index Rand"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JA0RT",
+    "SecurityName": "All Africa 40 Index Rand Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JA30",
+    "SecurityName": "All Africa Ex SA"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JA30T",
+    "SecurityName": "All Africa Ex SA Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JA3R",
+    "SecurityName": "All Africa ex SA 30 R"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JA3RT",
+    "SecurityName": "All Africa ex SA 30 R Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0010",
+    "SecurityName": "Technology"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0010T",
+    "SecurityName": "Technology Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0015",
+    "SecurityName": "Telecomm."
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0015T",
+    "SecurityName": "Telecomm. Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0020",
+    "SecurityName": "Health Care"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0020T",
+    "SecurityName": "Health Care Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0030",
+    "SecurityName": "Financials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0030T",
+    "SecurityName": "Financials Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0035",
+    "SecurityName": "Real Estate"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0035T",
+    "SecurityName": "Real Estate Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0040",
+    "SecurityName": "Consumer Discretionary"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0040T",
+    "SecurityName": "Consumer Discretionary Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0045",
+    "SecurityName": "Consumer Staples"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0045T",
+    "SecurityName": "Consumer Staples Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0050",
+    "SecurityName": "Industrials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0050T",
+    "SecurityName": "Industrials Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0055",
+    "SecurityName": "Basic Mat."
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0055T",
+    "SecurityName": "Basic Mat. Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0060",
+    "SecurityName": "Energy"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0060T",
+    "SecurityName": "Energy Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JI0065",
+    "SecurityName": "FTSE/JSE Utilities"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN00",
+    "SecurityName": "Top40 Net TRI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN00T",
+    "SecurityName": "Top40 Net TRI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN0U",
+    "SecurityName": "UTPN"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN0UT",
+    "SecurityName": "UTPN Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN23",
+    "SecurityName": "ALSI Net TRI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN23T",
+    "SecurityName": "ALSI Net TRI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN43",
+    "SecurityName": "SWIX ALSI Net TRI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN430",
+    "SecurityName": "Capped SWIX Top 40 Net TRI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN430T",
+    "SecurityName": "Capped SWIX Top 40 Net TRI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN433",
+    "SecurityName": "Capped SWIX ALSI Net TRI"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN433T",
+    "SecurityName": "Capped SWIX ALSI Net TRI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN43T",
+    "SecurityName": "SWIX ALSI Net TRI Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN51",
+    "SecurityName": "JN51"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JN51T",
+    "SecurityName": "JN51T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JNR4",
+    "SecurityName": "JNR4"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JNS4",
+    "SecurityName": "JNS4"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JNX4",
+    "SecurityName": "DTPN"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JNX4T",
+    "SecurityName": "DTPN Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS1011",
+    "SecurityName": "Softw & Comp Serv"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS1011T",
+    "SecurityName": "Softw & Comp Serv Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS1012",
+    "SecurityName": "FTSE/JSE Technology Hardware & Equipment"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS1511",
+    "SecurityName": "JS1511"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS1511T",
+    "SecurityName": "JS1511T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS1512",
+    "SecurityName": "Telecommunications Serv Prov"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS1512T",
+    "SecurityName": "Telecommunications Serv Prov Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS2011",
+    "SecurityName": "Health Care Providers"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS2011T",
+    "SecurityName": "Health Care Providers Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS2012",
+    "SecurityName": "JS2012"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS2012T",
+    "SecurityName": "JS2012T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS2013",
+    "SecurityName": "Pharma and Biotec"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS2013T",
+    "SecurityName": "Pharma and Biotec Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3011",
+    "SecurityName": "Banks"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3011T",
+    "SecurityName": "Banks Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3021",
+    "SecurityName": "Finance and Credit Services"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3021T",
+    "SecurityName": "Finance and Credit Services Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3022",
+    "SecurityName": "Inv Bank and Brokerage Serv"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3022T",
+    "SecurityName": "Inv Bank and Brokerage Serv Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3023",
+    "SecurityName": "JS3023"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3023T",
+    "SecurityName": "JS3023T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3024",
+    "SecurityName": "Closed End Investments"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3024T",
+    "SecurityName": "Closed End Investments Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3031",
+    "SecurityName": "Life Ins"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3031T",
+    "SecurityName": "Life Ins Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3032",
+    "SecurityName": "Non-life Insurance"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3032T",
+    "SecurityName": "Non-life Insurance Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3511",
+    "SecurityName": "Real Estate Investment & Serv"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3511T",
+    "SecurityName": "Real Estate Investment & Serv Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3512",
+    "SecurityName": "Real Estate Investment Trusts"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS3512T",
+    "SecurityName": "Real Estate Investment Trusts Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4011",
+    "SecurityName": "Aut & Parts"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4011T",
+    "SecurityName": "Aut & Parts Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4021",
+    "SecurityName": "Consumer Services"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4021T",
+    "SecurityName": "Consumer Services Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4022",
+    "SecurityName": "FTSE/JSE Household Goods & Home Construction"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4023",
+    "SecurityName": "Leisu Goods"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4023T",
+    "SecurityName": "Leisu Goods Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4024",
+    "SecurityName": "Pers goods"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4024T",
+    "SecurityName": "Pers goods Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4031",
+    "SecurityName": "FTSE/JSE Media"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4041",
+    "SecurityName": "Retailers"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4041T",
+    "SecurityName": "Retailers Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4051",
+    "SecurityName": "Trav & leis"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4051T",
+    "SecurityName": "Trav & leis Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4511",
+    "SecurityName": "Beverage"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4511T",
+    "SecurityName": "Beverage Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4512",
+    "SecurityName": "Food Prod"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4512T",
+    "SecurityName": "Food Prod Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4513",
+    "SecurityName": "Tobacco"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4513T",
+    "SecurityName": "Tobacco Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4521",
+    "SecurityName": "Pers Care, Drug and Groc Stor"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS4521T",
+    "SecurityName": "Pers Care, Drug and Groc Stor Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5011",
+    "SecurityName": "Constr & Mat"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5011T",
+    "SecurityName": "Constr & Mat Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5021",
+    "SecurityName": "FTSE/JSE Aerospace & Defense"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5022",
+    "SecurityName": "Electro & electr Equip"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5022T",
+    "SecurityName": "Electro & electr Equip Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5023",
+    "SecurityName": "Gen Indust"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5023T",
+    "SecurityName": "Gen Indust Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5024",
+    "SecurityName": "FTSE/JSE Industrial Engineering"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5025",
+    "SecurityName": "Industrial Support Services"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5025T",
+    "SecurityName": "Industrial Support Services Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5026",
+    "SecurityName": "Ind Transp"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5026T",
+    "SecurityName": "Ind Transp Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5511",
+    "SecurityName": "Industrial Materials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5511T",
+    "SecurityName": "Industrial Materials Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5512",
+    "SecurityName": "Industr. Metals & Min"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5512T",
+    "SecurityName": "Industr. Metals & Min Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5513",
+    "SecurityName": "Precious Metals and Mining"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5513T",
+    "SecurityName": "Precious Metals and Mining Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5521",
+    "SecurityName": "Chemicals"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS5521T",
+    "SecurityName": "Chemicals Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS6011",
+    "SecurityName": "Oil, Gas and Coal"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS6011T",
+    "SecurityName": "Oil, Gas and Coal Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS6012",
+    "SecurityName": "Alternative Energy"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS6012T",
+    "SecurityName": "Alternative Energy Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS6511",
+    "SecurityName": "FTSE/JSE Electricity"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS6512",
+    "SecurityName": "FTSE/JSE Gas, Water & Multi-utilities"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS6513",
+    "SecurityName": "JS6513"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JS6513T",
+    "SecurityName": "JS6513T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ0",
+    "SecurityName": "SWIX Resource 10"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ0T",
+    "SecurityName": "SWIX Resource 10 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ1",
+    "SecurityName": "SWIX Industrial 25"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ1T",
+    "SecurityName": "SWIX Industrial 25 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ2",
+    "SecurityName": "SWIX Financial 15"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ2T",
+    "SecurityName": "SWIX Financial 15 Total Return"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ3",
+    "SecurityName": "JSZ3"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ4",
+    "SecurityName": "JSZ4"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ5",
+    "SecurityName": "JSZ5"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ6",
+    "SecurityName": "JSZ6"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JSZ7",
+    "SecurityName": "JSZ7"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0010",
+    "SecurityName": "FTSE/JSE SWIX Technology"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0015",
+    "SecurityName": "FTSE/JSE SWIX Telecommunications"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0020",
+    "SecurityName": "FTSE/JSE SWIX Health Care"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0030",
+    "SecurityName": "FTSE/JSE SWIX Financials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0035",
+    "SecurityName": "JW0035"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0035T",
+    "SecurityName": "JW0035T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0040",
+    "SecurityName": "FTSE/JSE SWIX Consumer Discretionary"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0045",
+    "SecurityName": "FTSE/JSE SWIX Consumer Staples"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0050",
+    "SecurityName": "FTSE/JSE SWIX Industrials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0055",
+    "SecurityName": "FTSE/JSE SWIX Basic Materials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0060",
+    "SecurityName": "FTSE/JSE SWIX Energy"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JW0065",
+    "SecurityName": "FTSE/JSE SWIX Utilities"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX1011",
+    "SecurityName": "FTSE/JSE SWIX Software & Computer Services"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX1012",
+    "SecurityName": "FTSE/JSE SWIX Technology Hardware & Equipment"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX1511",
+    "SecurityName": "JX1511"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX1511T",
+    "SecurityName": "JX1511T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX1512",
+    "SecurityName": "FTSE/JSE SWIX Telecommunications Service Providers"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX2011",
+    "SecurityName": "FTSE/JSE SWIX Health Care Providers"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX2012",
+    "SecurityName": "JX2012"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX2012T",
+    "SecurityName": "JX2012T"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX2013",
+    "SecurityName": "FTSE/JSE SWIX Pharmaceuticals & Biotechnology"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3011",
+    "SecurityName": "FTSE/JSE SWIX Banks"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3021",
+    "SecurityName": "FTSE/JSE SWIX Finance & Credit Services"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3022",
+    "SecurityName": "JX3022"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3023",
+    "SecurityName": "JX3023"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3023T",
+    "SecurityName": "JX3023T" 
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3024",
+    "SecurityName": "FTSE/JSE SWIX Closed End Investments"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3031",
+    "SecurityName": "FTSE/JSE SWIX Life Insurance"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3032",
+    "SecurityName": "FTSE/JSE SWIX Nonlife Insurance"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3511",
+    "SecurityName": "FTSE/JSE SWIX Real Estate Investment & Services Development"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX3512",
+    "SecurityName": "FTSE/JSE SWIX Real Estate Investment Trusts"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4011",
+    "SecurityName": "FTSE/JSE SWIX Automobiles & Parts"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4021",
+    "SecurityName": "FTSE/JSE SWIX Consumer Services"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4022",
+    "SecurityName": "FTSE/JSE SWIX Household Goods & Home Construction"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4023",
+    "SecurityName": "FTSE/JSE SWIX Leisure Goods"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4024",
+    "SecurityName": "FTSE/JSE SWIX Personal Goods"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4031",
+    "SecurityName": "FTSE/JSE SWIX Media"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4041",
+    "SecurityName": "JX4041"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4051",
+    "SecurityName": "FTSE/JSE SWIX Travel & Leisure"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4511",
+    "SecurityName": "FTSE/JSE SWIX Beverages"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4512",
+    "SecurityName": "FTSE/JSE SWIX Food Producers"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4513",
+    "SecurityName": "FTSE/JSE SWIX Tobacco"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX4521",
+    "SecurityName": "FTSE/JSE SWIX Personal Care, Drug & Grocery Stores"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5011",
+    "SecurityName": "FTSE/JSE SWIX Construction & Materials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5021",
+    "SecurityName": "FTSE/JSE SWIX Aerospace & Defense"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5022",
+    "SecurityName": "FTSE/JSE SWIX Electronic & Electrical Equipment"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5023",
+    "SecurityName": "FTSE/JSE SWIX General Industrials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5024",
+    "SecurityName": "FTSE/JSE SWIX Industrial Engineering"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5025",
+    "SecurityName": "FTSE/JSE SWIX Industrial Support Services"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5026",
+    "SecurityName": "FTSE/JSE SWIX Industrial Transportation"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5511",
+    "SecurityName": "FTSE/JSE SWIX Industrial Materials"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5512",
+    "SecurityName": "FTSE/JSE SWIX Industrial Metals & Mining"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5513",
+    "SecurityName": "FTSE/JSE SWIX Precious Metals & Mining"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX5521",
+    "SecurityName": "FTSE/JSE SWIX Chemicals"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX6011",
+    "SecurityName": "FTSE/JSE SWIX Oil, Gas and Coal"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX6012",
+    "SecurityName": "FTSE/JSE SWIX Alternative Energy"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX6511",
+    "SecurityName": "FTSE/JSE SWIX Electricity"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX6512",
+    "SecurityName": "FTSE/JSE SWIX Gas Water & Multi-utilities"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "JX6513",
+    "SecurityName": "JX6513"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "N058",
+    "SecurityName": "ALTERNATIVE ENERGY"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "N873",
+    "SecurityName": "N873"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "SBSW17",
+    "SecurityName": "SBVES RESETSWX40 15F"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "SBSW27",
+    "SecurityName": "SBVESRESETSWIX4015AP"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "SBSW28",
+    "SecurityName": "SBVESRESETSWIX4015MA"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "SBSWV5",
+    "SecurityName": "SBVESRESETSWX40JUNE1"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "SBTPV4",
+    "SecurityName": "SB VES RESETDTOP40MA"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "SBTPV6",
+    "SecurityName": "SBVESRESETTOP4004NOV"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "SPXIIC",
+    "SecurityName": "IB SP500 AUTOCALL4 J"
+},
+{
+    "Exchange": "JSE",
+    "SecurityCode": "TOPIIA",
+    "SecurityName": "IB TOP40 AUTOCALL30M"
+}
+]

@@ -4,6 +4,7 @@ import axios from "axios";
 const Exchanges = [
 	{ Exchange: "FX", DataSource: "NXE" },
 	{ Exchange: "IFE", DataSource: "IFEE" }
+	//{Exchange: "NFX", DataSource: "IFE"}
 ];
 
 /**
